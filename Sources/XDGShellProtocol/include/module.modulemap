@@ -1,0 +1,4 @@
+module XDGShellProtocol {
+    header "xdg-shell-client-protocol.h"
+    export *
+}
